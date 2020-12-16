@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 int main()
   {
   	int a[5][5], r,c,i,j;
@@ -24,5 +23,5 @@ int main()
 	         
 		 }
 	  }
-	  
+	  return 0;
   }
